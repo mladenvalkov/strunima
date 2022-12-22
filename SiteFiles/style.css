@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header
+{
+    height: 90vh;
+    padding: 18px;
+}
+.navbar-nav
+{
+    display: inline-block;
+}
+.navbar-nav.navbar-center {
+    position: relative;
+    left: 30%;
+}
+.navbar-style
+{
+    box-shadow: 0 5px 5px #767e80;
+}
+.logo
+{
+    height: 48px;
+    object-position: 0px;
+}
+.icon-bar
+{
+    background: rgb(0, 156, 156);
+}
+
+li a
+{
+    color:rgb(0, 204, 255);
+    font-size: 18px;
+}
+a.btn
+{
+    margin: 30px 10px;
+    width: 150px;
+    padding: 10px;
+    border-radius: 20px;
+}
+a.btn-download
+{
+    background-color: black;
+}
+.crtext
+{
+    font-size: 18px;
+    margin: 7px 0;
+    padding: 0px;
+    padding-block-end: 20px;
+    color: rgb(0, 178, 233);
+    left: 100px;
+}
+.guideheader
+{
+    font-size: 30px;
+    margin: 7px 0;
+    padding: 0px;
+    padding-block-end: 20px;
+    color: rgb(255, 115, 0);
+    left: 100px;
+    font-style: italic;
+}
+.writingtext
+{
+    font-size: 15px;
+    margin: 7px 0;
+    padding: 0px;
+    padding-block-end: 20px;
+    color: rgb(0, 195, 255);
+    left: 100px;
+}
+.headerofsection
+{
+    font-size: 20px;
+    margin: 7px 0;
+    padding: 0px;
+    padding-block-end: 20px;
+    color: rgb(149, 169, 175);
+    left: 100px;
+}
